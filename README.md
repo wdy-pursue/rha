@@ -10,15 +10,15 @@
 # 效果
 处理前：
 ![}QX(VNPE)R}XG4NOG(VJI(V](https://github.com/wdy-pursue/rha/assets/57004624/6fa727df-1aac-41bd-abc6-914dc4fa0ea7)
-处理后：
+处理后是经过脚本处理后TD TV直接放大的版本：
 ![%2P~JCMSGYADC RSUY8}8_M](https://github.com/wdy-pursue/rha/assets/57004624/7dcee974-4116-4bac-82ef-e63e9d91b85d)
 处理前：
 ![DQ(SZI}DE_T%@{KS2F{OMRH](https://github.com/wdy-pursue/rha/assets/57004624/e0b9ed82-3119-4c78-a0df-bb233b0c983f)
-处理后：
+处理后是经过脚本处理后TD TV直接放大的版本：
 ![Q_S V{306%LP1A77KYGIVF8](https://github.com/wdy-pursue/rha/assets/57004624/7ccb4525-f5d6-4430-95cc-a26a80be9fd7)
 处理前：
 ![RU}UREG_ )}CG1Q9{0N`KAK](https://github.com/wdy-pursue/rha/assets/57004624/9b08d3dd-3d42-4303-b48f-74f63bc25d83)
-处理后：
+处理后是经过脚本处理后TD TV直接放大的版本：
 
 ![%E@SK@_`V0 UW)9 6GXX{D6](https://github.com/wdy-pursue/rha/assets/57004624/926e68e6-bcb0-4faa-8757-a8422efd0dd0)
 

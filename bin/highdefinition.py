@@ -18,7 +18,12 @@ SourcePath = os.path.join(rootpath,"草图")
 RepaintPath = os.path.join(rootpath,"结果图")
 EnlargePath = os.path.join(rootpath,"高清化结果图循环上传区")
 JsonPath = os.path.join(rootpath, "config",args.configjson+".json")
-
+if not os.path.exists(SourcePath):
+    os.makedirs(SourcePath)
+if not os.path.exists(RepaintPath):
+    os.makedirs(RepaintPath)
+if not os.path.exists(EnlargePath):
+    os.makedirs(EnlargePath)
 def getjson(JsonPath):
     with open(JsonPath, "r", encoding="utf-8") as f:
         launcher = json.load(f)

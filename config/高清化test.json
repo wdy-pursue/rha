@@ -1,0 +1,56 @@
+{
+	"网址": "http://127.0.0.1:7860/",
+	"正咒": "masterpiece:1.1),(best quality:1.2),highres,original,extremely detailed wallpaper,official art,1girl,solo,((standing)),((full body)),((simple background:1.5)),((white background:1.5)),(Volumetric Lighting),full_shot,(looking_at_viewer),",
+	"反咒": "EasyNegative, Bad Hand, (Pinch the corner of one's clothes),nsfw,lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, bad feet, missing legs, realistic, parody, traditional media, poorly drawn eyes, huge breasts, malformed arm, long neck, ugly, poorly drawn pantie, bad face, poorly drawn pussy, bad thigh gap, extra legs, futa, long face, missing arms, extra arm, bad_prompt",
+	"秘钥说明":"浏览器f12自行查找，相同的账户密码对应相同的秘钥，如123，123对应Basic MTIzOjEyMw=="
+	"秘钥": "Basic d2R5OndkeQ==",
+	"步数": 30,
+	"宽": 1152,
+	"高": 2048,
+	"ckpt模型": "cuteyukimixAdorable_neochapter.safetensors",
+	"vae模型": "ClearVAE_V2.1.safetensors",
+	"lora模型说明": "设置lora模型时，两个1都为权重值，一般只用到第一个，如果有多个lora，重复三项即可。[]中的所有元素之间逗号隔开，最后不能有逗号",
+	"lora模型": [
+	],
+	"采样方法": "DPM++ 2S a Karras",
+	"tiled_diffusion": {
+		"是否启用": "True",
+		"放大算法": "R-ESRGAN 4x+ Anime6B",
+		"放大倍数": 2
+	},
+	"tiled_vae说明": "设置是否启用tiled_vae",
+	"tiled_vae": "True",
+	"controlnet说明": "如果有多个controlnet，复制{}中的内容即可，不同{}之间用逗号隔开，最后不能有逗号",
+	"controlnet": [
+		{	"是否启用": "True",
+			"模式": "none",
+			"模型": "control_fwr_color_test",
+			"权重": 0.85,
+			"缩放模式说明": " 0 ：仅调整大小 1 ：裁剪后缩放 2 ：缩放后填充空白 ",
+			"缩放模式": 1,
+			"低显存模式": "false",
+			"引导介入时机": 0,
+			"引导终止时机": 0.85,
+			"完美像素模式": "True"
+		},
+		{
+			"图片路径": "F:\\RJ\\rah\\手部线稿（推荐）.jpg",
+			"是否启用": "True",
+			"模式": "lineart_standard",
+			"模型": "control_v11p_sd15s2_lineart_anime",
+			"权重": 1,
+			"缩放模式说明": " 0 ：仅调整大小 1 ：裁剪后缩放 2 ：缩放后填充空白 ",
+			"缩放模式": 1,
+			"低显存模式": "false",
+			"引导介入时机": 0,
+			"引导终止时机": 1,
+			"完美像素模式": "True",
+			"控制模式说明": "0 ：均衡。 1 ：更偏向提示词 。2 更偏向controlnet。",
+			"控制模式": 2,
+			"mask图片":"none"
+		}
+	],
+	"反推网址": "https://smilingwolf-wd-v1-4-tags.hf.space/run/predict",
+	"反推prompt数量":15,
+	"反推模型": ["ViT","MOAT","SwinV2","ConvNext","ConvNextV2"]
+}

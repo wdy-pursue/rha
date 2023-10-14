@@ -1,4 +1,4 @@
-# rha
+# 介绍
 利用Stable-Diffution API去除图片ai感
 
 使用Stable-Diffution API进行自动化跑图的测试过程中，我们发现一个特性，通过调整重绘幅度，可以逐渐去除图片上的阴影，从而达到去除ai感的结果。我们猜测这可能是tile的预处理器的模糊化导致的。

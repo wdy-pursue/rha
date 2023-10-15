@@ -5,7 +5,7 @@
 
 编写程序的初衷是节省人力劳动，批量出图，最初是为我们自己的工作室项目而创建的，但由于种种原因，我们未能将其投入实际生产环境。因此，我们决定将其分享出来，以便更多的开发者能够受益并继续研究和优化这一特性。
 
-
+欢迎访问全网最便宜的live2d，大鹅猫工作室承接手工建模live2d，ai动捕live2d，live2d角色立绘定制，千款成品尽在 https://daemao.top/
 
 # 效果
 处理前：
@@ -28,9 +28,9 @@
 # 使用
 配置python地址，双击bat文件即可，通过修改config目录下的json文件内容来修改参数。
 
-欢迎访问全网最便宜的live2d，大鹅猫工作室承接手工建模live2d，ai动捕live2d，live2d角色立绘定制，千款成品尽在 https://daemao.top/
-
 对于json文件中的秘钥部分，如果使用的是秋叶大佬的版本，设置一下 ![C6JI7D$Z4UTP3KDBV(EYUNG](https://github.com/wdy-pursue/rha/assets/57004624/162b2113-f935-4822-a2e5-4327c53d0184) 
 不会找秘钥位置的朋友直接设置账号密码为123,123，秘钥为 Basic d2R5OndkeQ== 
 
 如果使用的是原版sd，启动时添加这个参数即可： --api --autolaunch --api-auth 123:123 
+
+欢迎访问全网最便宜的live2d，大鹅猫工作室承接手工建模live2d，ai动捕live2d，live2d角色立绘定制，千款成品尽在 https://daemao.top/

@@ -28,6 +28,8 @@
 # 使用
 配置python地址，双击bat文件即可，通过修改config目录下的json文件内容来修改参数。
 
+欢迎访问全网最便宜的live2d，大鹅猫工作室承接手工建模live2d，ai动捕live2d，live2d角色立绘定制，千款成品尽在 https://daemao.top/
+
 对于json文件中的秘钥部分，如果使用的是秋叶大佬的版本，设置一下 ![C6JI7D$Z4UTP3KDBV(EYUNG](https://github.com/wdy-pursue/rha/assets/57004624/162b2113-f935-4822-a2e5-4327c53d0184) 
 不会找秘钥位置的朋友直接设置账号密码为123,123，秘钥为 Basic d2R5OndkeQ== 
 

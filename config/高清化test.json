@@ -34,7 +34,7 @@
 			"完美像素模式": "True"
 		},
 		{
-			"图片路径": "F:\\RJ\\rah\\手部线稿（推荐）.jpg",
+			"图片路径": "xxxx",
 			"是否启用": "True",
 			"模式": "lineart_standard",
 			"模型": "control_v11p_sd15s2_lineart_anime",
